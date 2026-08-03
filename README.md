@@ -149,11 +149,3 @@ This project was built as a hands-on portfolio piece to demonstrate a complete, 
 This project is licensed under the [MIT License](LICENSE) — feel free to explore, fork, or reference it.
 
 ---
-
-⭐ If you found this project useful or interesting, consider starring the repo!
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
