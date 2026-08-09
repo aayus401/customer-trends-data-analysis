@@ -38,7 +38,7 @@ The goal was to answer practical business questions such as:
 | Data Cleaning & EDA | Python (Pandas, NumPy, Matplotlib, Seaborn) — Jupyter Notebook |
 | Data Storage & Querying | SQL (MySQL / PostgreSQL / MS SQL Server) |
 | Visualization & Dashboarding | Power BI |
-| Reporting | PDF report + PowerPoint presentation |
+| Reporting | PDF report|
 
 ---
 
